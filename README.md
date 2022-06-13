@@ -1,6 +1,7 @@
 BOOKING APP
 
 Booking app is a simple Frontend only authentication app built with React Native CLI.
+it contains just a sign in and sign up page which you can navigate to with the signUp and Sign in buttons.
 
 
 
