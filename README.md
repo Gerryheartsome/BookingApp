@@ -12,7 +12,11 @@ After you have successfully cloned the app from the git repository, open the ter
 	pod install
 	npx react-native run-ios
 	
-	
+To build for android, navigate to the cloned folder in your code editor of choice and run the following commands
+
+	npm install
+	npx react-native run-android
+
 
 SAFETY TIPS
 
